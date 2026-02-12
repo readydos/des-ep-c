@@ -1,0 +1,14 @@
+{
+  "project": "56-Bit Landscape (Phase II)",
+  "location": "Paris (City of Refusés)",
+  "blueprint_type": "Artistic Exclusion",
+  "data_points": [
+    {"id": 101, "coord": [48.8694, 2.3078], "status": "palais_de_l_industrie_exclusion_zone"},
+    {"id": 102, "coord": [48.8711, 2.3294], "status": "nadar_studio_ghost_site"},
+    {"id": 103, "coord": [48.8598, 2.3265], "status": "d_orsay_shadow_repository"}
+  ],
+  "metadata": {
+    "key_length": 56,
+    "source_inspiration": "1863 Salon des Refusés"
+  }
+}
