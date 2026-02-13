@@ -1,4 +1,3 @@
-# des-ep-c
 # The DES Lattice: A Generative Framework for Conceptual Art
 
 ## Overview
