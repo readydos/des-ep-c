@@ -1,4 +1,4 @@
-# The DES Lattice: A Generative Framework for *revealing what is hidden*, and art.
+# The DES Lattice: A Generative Framework for *revealing what is hidden* with visualization.
 
 ## Overview
 The DES Lattice is a conceptual system that bridges the gap between historical data encryption and generative art. It focuses on the the structures that remain when a primary standard is removed, a "lattice" for seeing what everyone else is ignoring.
