@@ -2,12 +2,12 @@
 # The DES Lattice: A Generative Framework for Conceptual Art
 
 ## Overview
-The DES Lattice is a conceptual system that bridges the gap between historical data encryption and generative art. It focuses on the **"Ghost of Innovation"**—the structures that remain when a primary standard is removed.
+The DES Lattice is a conceptual system that bridges the gap between historical data encryption and generative art. It focuses on the **"Ghost of Innovation"**—the structures that remain when a primary standard is removed. "Lattice" for seeing what everyone else is ignoring.
 
 ## The Framework
 1. **Invention**: Create a Symmetric Key (a rigid rule).
 2. **Exclusion**: Strip away the primary data, leaving only the "rejected" remnants.
-3. **Art**: Focus on the aesthetic of the "Refusés" (the rejects).
+3. **Art**: Focus on the aesthetic of the "hidden" (what was excluded from the data).
 4. **Combination**: Merge the void and the structure to create a "Shadow Map."
 
 ## Usage
@@ -48,8 +48,3 @@ The purpose of the C implementation (`des_lattice.c`) is to provide a "Standard"
 2. A Framework for Generative Art (Creative Use)
   A published, licensed methodology (The DES Lattice) that uses exclusion as a creative engine.
   Utility: This allows you to generate visual or data-driven work that isn't just "random," but is mathematically tethered to a real-world "Standard." You can apply this to any dataset—urban planning, biology, or finance—to reveal its "Shadow."
-
-```
-"Lattice" for seeing what everyone else is ignoring.
-Would you like to run the C code with a larger "input_data" buffer to see how the "Shadow Map" scales, or should we apply this framework to a different global "Standard," like the Global Financial System?
-```
